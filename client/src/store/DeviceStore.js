@@ -53,9 +53,9 @@ export default class DeviceStore {
     get selectedBrand() {
         return this._selectedBrand
     }
-    get totalCount() {
-        return this._totalCount
-    }
+    // get totalCount() {
+    //     return this._totalCount
+    // }
     get page() {
         return this._page
     }
